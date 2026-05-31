@@ -1,5 +1,5 @@
 # CGPA-Calculator-using-C-
-```markdown
+
 # 🎓 CGPA & SGPA Calculator
 
 > A simple yet powerful console-based GPA calculator written in C++. Calculate your semester GPA (SGPA) or cumulative GPA (CGPA) across multiple semesters with instant academic standing feedback.
